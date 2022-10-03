@@ -1,0 +1,38 @@
+
+[03-Oct-2022 12:29:31 America/Chicago] Este es el controlador de APP - 1
+[03-Oct-2022 12:29:31 America/Chicago] controllers/agenda.php
+[03-Oct-2022 12:30:06 America/Chicago] Este es el controlador de APP - 1
+[03-Oct-2022 12:30:17 America/Chicago] Este es el controlador de APP - 1
+[03-Oct-2022 12:31:21 America/Chicago] 1
+[03-Oct-2022 12:31:38 America/Chicago] 1
+[03-Oct-2022 12:52:46 America/Chicago] 1
+[03-Oct-2022 13:20:52 America/Chicago] 1
+[03-Oct-2022 13:21:10 America/Chicago] 1
+[03-Oct-2022 13:21:52 America/Chicago] 1
+[03-Oct-2022 13:33:15 America/Chicago] 1
+[03-Oct-2022 13:33:19 America/Chicago] 1
+[03-Oct-2022 13:33:22 America/Chicago] 1
+[03-Oct-2022 13:33:22 America/Chicago] Errores::contructor -> Inicio de Errores
+[03-Oct-2022 13:33:25 America/Chicago] 1
+[03-Oct-2022 13:33:25 America/Chicago] Errores::contructor -> Inicio de Errores
+[03-Oct-2022 13:34:13 America/Chicago] 1
+[03-Oct-2022 13:34:13 America/Chicago] Errores::contructor -> Inicio de Errores
+[03-Oct-2022 13:35:35 America/Chicago] Errores::contructor -> Inicio de Errores
+[03-Oct-2022 13:47:03 America/Chicago] PHP Notice:  Undefined variable: lead in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 10
+[03-Oct-2022 13:47:03 America/Chicago] PHP Notice:  Undefined variable: sucursales in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:47:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:47:10 America/Chicago] PHP Notice:  Undefined variable: lead in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 10
+[03-Oct-2022 13:47:10 America/Chicago] PHP Notice:  Undefined variable: sucursales in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:47:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:47:49 America/Chicago] PHP Notice:  Undefined variable: lead in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 10
+[03-Oct-2022 13:47:49 America/Chicago] PHP Notice:  Undefined variable: sucursales in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:47:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:50:01 America/Chicago] PHP Notice:  Undefined variable: lead in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 10
+[03-Oct-2022 13:50:01 America/Chicago] PHP Notice:  Undefined variable: sucursales in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:50:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:51:12 America/Chicago] PHP Notice:  Undefined variable: lead in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 10
+[03-Oct-2022 13:51:12 America/Chicago] PHP Notice:  Undefined variable: sucursales in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 13:51:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /var/www/controldegestion_nuevo/agenda/views/agenda/registroModal.php on line 15
+[03-Oct-2022 14:25:13 America/Chicago] Errores::contructor -> Inicio de Errores
+[03-Oct-2022 14:37:08 America/Chicago] Errores::contructor -> Inicio de Errores
+[03-Oct-2022 14:37:17 America/Chicago] Errores::contructor -> Inicio de Errores
