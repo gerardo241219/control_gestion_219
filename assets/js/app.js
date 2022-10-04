@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var contenedorAgenda = document.getElementById('agenda');
   
     var agenda = new FullCalendar.Calendar(contenedorAgenda, {
-      height: 555,
+      height: 500,
       selectable: true,
       headerToolbar: {
         left: '',
