@@ -30,10 +30,10 @@ document.addEventListener('DOMContentLoaded', function() {
           }
         }
       },
-      dateClick: function(info){
+      select: function(info) {
         $('#registroModal').modal("show");
-      },
-      // select: function(info) {}
+        $('[id=fecha]').val(info.startStr);
+      }
     });
   
     agenda.render();
